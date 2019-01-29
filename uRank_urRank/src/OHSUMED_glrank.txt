@@ -1,0 +1,114 @@
+---------------C1 MP-------------
+
+/Users/xiaofengzhu/conda/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:34: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Creating the dataset...
+- done.
+Creating the model...
+- done.
+Starting evaluation
+2019-01-25 23:59:57.159851: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+INFO:tensorflow:Restoring parameters from experiments/base_model/best_weights/after-epoch-98
+Restoring parameters from experiments/base_model/best_weights/after-epoch-98
+- Eval metrics: ndcg_1: 0.429 ; ndcg_3: 0.403 ; ndcg_5: 0.402 ; ndcg_10: 0.388 ; err_1: 0.310 ; err_3: 0.427 ; err_5: 0.451 ; err_10: 0.470
+/Users/xiaofengzhu/conda/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:34: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Creating the dataset...
+- done.
+Creating the model...
+- done.
+Starting evaluation
+2019-01-26 00:04:53.079201: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+INFO:tensorflow:Restoring parameters from experiments/base_model/best_weights/after-epoch-120
+Restoring parameters from experiments/base_model/best_weights/after-epoch-120
+- Eval metrics: ndcg_1: 0.727 ; ndcg_3: 0.621 ; ndcg_5: 0.557 ; ndcg_10: 0.522 ; err_1: 0.545 ; err_3: 0.633 ; err_5: 0.650 ; err_10: 0.658
+/Users/xiaofengzhu/conda/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:34: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Creating the dataset...
+- done.
+Creating the model...
+- done.
+Starting evaluation
+2019-01-26 00:09:36.433014: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+INFO:tensorflow:Restoring parameters from experiments/base_model/best_weights/after-epoch-76
+Restoring parameters from experiments/base_model/best_weights/after-epoch-76
+- Eval metrics: ndcg_1: 0.619 ; ndcg_3: 0.535 ; ndcg_5: 0.474 ; ndcg_10: 0.445 ; err_1: 0.464 ; err_3: 0.553 ; err_5: 0.577 ; err_10: 0.593
+/Users/xiaofengzhu/conda/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:34: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Creating the dataset...
+- done.
+Creating the model...
+- done.
+Starting evaluation
+2019-01-26 00:16:11.718332: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+INFO:tensorflow:Restoring parameters from experiments/base_model/best_weights/after-epoch-213
+Restoring parameters from experiments/base_model/best_weights/after-epoch-213
+- Eval metrics: ndcg_1: 0.619 ; ndcg_3: 0.505 ; ndcg_5: 0.487 ; ndcg_10: 0.491 ; err_1: 0.464 ; err_3: 0.542 ; err_5: 0.559 ; err_10: 0.575
+/Users/xiaofengzhu/conda/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:34: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Creating the dataset...
+- done.
+Creating the model...
+- done.
+Starting evaluation
+2019-01-26 00:22:26.319372: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+INFO:tensorflow:Restoring parameters from experiments/base_model/best_weights/after-epoch-187
+Restoring parameters from experiments/base_model/best_weights/after-epoch-187
+- Eval metrics: ndcg_1: 0.667 ; ndcg_3: 0.595 ; ndcg_5: 0.537 ; ndcg_10: 0.494 ; err_1: 0.500 ; err_3: 0.624 ; err_5: 0.644 ; err_10: 0.653
+
+-------------C1 AP------------
+/Users/xiaofengzhu/conda/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:34: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Creating the dataset...
+- done.
+Creating the model...
+- done.
+Starting evaluation
+2019-01-27 17:06:44.383210: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+INFO:tensorflow:Restoring parameters from experiments/base_model/best_weights/after-epoch-97
+Restoring parameters from experiments/base_model/best_weights/after-epoch-97
+- Eval metrics: ndcg_1: 0.429 ; ndcg_3: 0.403 ; ndcg_5: 0.408 ; ndcg_10: 0.389 ; err_1: 0.310 ; err_3: 0.427 ; err_5: 0.456 ; err_10: 0.470
+/Users/xiaofengzhu/conda/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:34: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Creating the dataset...
+- done.
+Creating the model...
+- done.
+Starting evaluation
+2019-01-27 17:10:15.881064: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+INFO:tensorflow:Restoring parameters from experiments/base_model/best_weights/after-epoch-118
+Restoring parameters from experiments/base_model/best_weights/after-epoch-118
+- Eval metrics: ndcg_1: 0.727 ; ndcg_3: 0.621 ; ndcg_5: 0.561 ; ndcg_10: 0.522 ; err_1: 0.545 ; err_3: 0.633 ; err_5: 0.650 ; err_10: 0.658
+/Users/xiaofengzhu/conda/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:34: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Creating the dataset...
+- done.
+Creating the model...
+- done.
+Starting evaluation
+2019-01-27 17:13:54.455481: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+INFO:tensorflow:Restoring parameters from experiments/base_model/best_weights/after-epoch-76
+Restoring parameters from experiments/base_model/best_weights/after-epoch-76
+- Eval metrics: ndcg_1: 0.619 ; ndcg_3: 0.535 ; ndcg_5: 0.474 ; ndcg_10: 0.448 ; err_1: 0.464 ; err_3: 0.553 ; err_5: 0.577 ; err_10: 0.594
+/Users/xiaofengzhu/conda/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:34: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Creating the dataset...
+- done.
+Creating the model...
+- done.
+Starting evaluation
+2019-01-27 17:19:16.902935: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+INFO:tensorflow:Restoring parameters from experiments/base_model/best_weights/after-epoch-202
+Restoring parameters from experiments/base_model/best_weights/after-epoch-202
+- Eval metrics: ndcg_1: 0.619 ; ndcg_3: 0.501 ; ndcg_5: 0.493 ; ndcg_10: 0.483 ; err_1: 0.464 ; err_3: 0.538 ; err_5: 0.565 ; err_10: 0.573
+/Users/xiaofengzhu/conda/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:34: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Creating the dataset...
+- done.
+Creating the model...
+- done.
+Starting evaluation
+2019-01-27 17:24:18.622295: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+INFO:tensorflow:Restoring parameters from experiments/base_model/best_weights/after-epoch-189
+Restoring parameters from experiments/base_model/best_weights/after-epoch-189
+- Eval metrics: ndcg_1: 0.667 ; ndcg_3: 0.583 ; ndcg_5: 0.536 ; ndcg_10: 0.494 ; err_1: 0.500 ; err_3: 0.623 ; err_5: 0.643 ; err_10: 0.653
