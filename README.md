@@ -1,2 +1,2 @@
-# UniqueRank and UrRank
+# uRank and urRank
 SIGIR2019 Paper Submission
